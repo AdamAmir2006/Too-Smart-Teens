@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Too Smart Teens</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Henrico Prevention Services</string>
+    <string name="nav_header_subtitle">(804) 727-8053</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_login">Login</string>
+
+    <string name="bulletpnt">•</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_page2">Youth Leadership</string>
+    <string name="menu_page3">Resources</string>
+    <string name="menu_page4">Community Service Partners</string>
+
+    <string name="blog_link1_text">Check out our blog!</string>
+
+    <string name="desc_txt1_home">Advocacy\n Community Collaboration\n Awareness\n Sustainability</string>
+
+    <string name="desc_txt1_wellness">This is the Wellness page</string>
+
+    <string name="desc_txt1_youth">As Henrico Youth, we are the voice of the newest generation and we are empowered to improve the world with the help of our community friends and partners.</string>
+    <string name="desc_txt2_youth">The Youth Leadership Program won a National Association of Counties (NACo) award in 2020 for innovative programs and initiatives. It is a community-based program that focuses on building character, social skills, and civic responsibility. The goal of the program is to bolster youth’s success through adolescence and adulthood by strengthening leadership skills and job training. Youth Ambassadors, primarily Henrico County high school youth, develop leadership competencies that position them to promote positive change in their communities.</string>
+    <string name="desc_txt3_youth">Come and join the Henrico Youth Leaders movement! To find out more information, please click the call button in the bottom right corner.</string>
+
+    <string name="page3_header2">How We Promote Health &amp; Wellness</string>
+    <string name="page3_header3">How to Get Involved</string>
+    <string name="page3_header4">What’s Included</string>
+
+    <string name="desc_txt1_resources">This is the Resources page</string>
+
+    <string name="desc_txt1_community">This is the Community Service Partners page</string>
+
+    <string name="page4_name_3">Communities In Schools of Richmond</string>
+    <string name="page4_email_3">dvernon@cisofrichmond.org</string>
+    <string name="page4_address_3">100 Everett St \n Richmond, VA 23224</string>
+    <string name="page4_website_3">https://www.cisofrichmond.org/</string>
+    <string name="page4_phone_3">(804)-358-1247</string>
+
+    <string name="page4_name_4">Culture Encounters</string>
+    <string name="page4_email_4">ammagatty@gmail.com</string>
+    <string name="page4_address_4">P.O. Box 38772 \n Henrico, VA 23231</string>
+    <string name="page4_website_4">http://www.nextstarpac.com</string>
+    <string name="page4_phone_4">(804)-663-8383</string>
+
+    <string name="page4_name_5">DSS</string>
+    <string name="page4_email_5">seyoum.berhe@dss.virginia.gov</string>
+    <string name="page4_address_5">801 East Main Street \n Richmond, VA 23219</string>
+    <string name="page4_website_5">N/A</string>
+    <string name="page4_phone_5">(804)-432-2642</string>
+
+    <string name="page4_name_6">Greater Richmond SCAN</string>
+    <string name="page4_email_6">lrimington@grscan.com</string>
+    <string name="page4_address_6">103 E Grace Street \n Richmond, VA 23219</string>
+    <string name="page4_website_6">http://www.grscan.com</string>
+    <string name="page4_phone_6">(804)-257-7226</string>
+
+    <string name="page4_name_7">Help1RVA</string>
+    <string name="page4_email_7">sneadk@ymcarichmond.org</string>
+    <string name="page4_address_7">2244 John Rolfe Parkway \n Richmond, VA 23233</string>
+    <string name="page4_website_7">http://www.help1rva.org</string>
+    <string name="page4_phone_7">(804)-360-8767</string>
+
+    <string name="page4_name_8"></string>
+    <string name="page4_email_8"></string>
+    <string name="page4_address_8"></string>
+    <string name="page4_website_8"></string>
+    <string name="page4_phone_8"></string>
+
+    <string name="page4_name9"></string>
+    <string name="page4_email_9"></string>
+    <string name="page4_address_9"></string>
+    <string name="page4_website_9"></string>
+    <string name="page4_phone_9"></string>
+
+    <string name="page4_name_10"></string>
+    <string name="page4_email_10"></string>
+    <string name="page4_address_10"></string>
+    <string name="page4_website_10"></string>
+    <string name="page4_phone_10"></string>
+
+    <string name="page4_name_11"></string>
+    <string name="page4_email_11"></string>
+    <string name="page4_address_11"></string>
+    <string name="page4_website_11"></string>
+    <string name="page4_phone_11"></string>
+
+    <string name="page4_name_12"></string>
+    <string name="page4_email_12"></string>
+    <string name="page4_address_12"></string>
+    <string name="page4_website_12"></string>
+    <string name="page4_phone_12"></string>
+
+    <string name="page4_name_13"></string>
+    <string name="page4_email_13"></string>
+    <string name="page4_address_13"></string>
+    <string name="page4_website_13"></string>
+    <string name="page4_phone_13"></string>
+
+    <string name="page4_name_14"></string>
+    <string name="page4_email_14"></string>
+    <string name="page4_address_14"></string>
+    <string name="page4_website_14"></string>
+    <string name="page4_phone_14"></string>
+
+    <string name="page4_name_15"></string>
+    <string name="page4_email_15"></string>
+    <string name="page4_address_15"></string>
+    <string name="page4_website_15"></string>
+    <string name="page4_phone_15"></string>
+
+    <string name="page4_name_16"></string>
+    <string name="page4_email_16"></string>
+    <string name="page4_address_16"></string>
+    <string name="page4_website_16"></string>
+    <string name="page4_phone_16"></string>
+
+    <string name="page4_name_17"></string>
+    <string name="page4_email_17"></string>
+    <string name="page4_address_17"></string>
+    <string name="page4_website_17"></string>
+    <string name="page4_phone_17"></string>
+
+    <string name="page4_name_18"></string>
+    <string name="page4_email_18"></string>
+    <string name="page4_address_18"></string>
+    <string name="page4_website_18"></string>
+    <string name="page4_phone_18"></string>
+
+    <string name="page4_name_19"></string>
+    <string name="page4_email_19"></string>
+    <string name="page4_address_19"></string>
+    <string name="page4_website_19"></string>
+    <string name="page4_phone_19"></string>
+
+    <string name="page4_name_20"></string>
+    <string name="page4_email_20"></string>
+    <string name="page4_address_20"></string>
+    <string name="page4_website_20"></string>
+    <string name="page4_phone_20"></string>
+
+    <string name="page4_name_21"></string>
+    <string name="page4_email_21"></string>
+    <string name="page4_address_21"></string>
+    <string name="page4_website_21"></string>
+    <string name="page4_phone_21"></string>
+
+    <string name="page4_name_22"></string>
+    <string name="page4_email_22"></string>
+    <string name="page4_address_22"></string>
+    <string name="page4_website_22"></string>
+    <string name="page4_phone_22"></string>
+
+    <string name="page4_name_23"></string>
+    <string name="page4_email_23"></string>
+    <string name="page4_address_23"></string>
+    <string name="page4_website_23"></string>
+    <string name="page4_phone_23"></string>
+
+    <string name="page4_name_24"></string>
+    <string name="page4_email_24"></string>
+    <string name="page4_address_24"></string>
+    <string name="page4_website_24"></string>
+    <string name="page4_phone_24"></string>
+
+
+
+
+
+</resources>
